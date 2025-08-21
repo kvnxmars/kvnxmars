@@ -37,13 +37,5 @@ Welcome to my GitHub profile! I love building **full-stack applications**, explo
 
 ---
 
-## 📈 Top Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnxmars&layout=compact&theme=radical)
-
----
-
-
-*✨ Building, learning, and growing one commit at a time.*
 
 
