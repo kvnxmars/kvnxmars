@@ -1,4 +1,4 @@
-# Hey hey, I'm Kevin 👋  
+# Hey, I'm Kevin 👋  
 
 Welcome to my GitHub profile! I love building **full-stack applications**, exploring new tech, and constantly leveling up my skills.  
 
