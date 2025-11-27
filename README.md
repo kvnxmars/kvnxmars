@@ -1,17 +1,8 @@
 # Hey, I'm Kevin 👋  
 
-Welcome to my GitHub profile! I love building **full-stack applications**, exploring new tech, and constantly leveling up my skills.  
+Welcome to my GitHub profile!  
 
 ---
-
-## 🚀 About Me
-- 💻 Full Stack Developer in the making  
-- 🌱 Currently diving deeper into **React**, **Node.js**, and **Cloud Technologies**  
-- 🎯 Goal: To build impactful apps and grow as a developer  
-- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/unathi-mbolongwe/))  
-
----
-
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks:**  
