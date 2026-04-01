@@ -35,6 +35,12 @@ Full-stack developer building things that matter. Currently deep in the MERN sta
 
 ---
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnxmars&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kvnxmars&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
